@@ -1,3 +1,6 @@
+taches
+- recenser tous les vendeurs de jeux de société
+
 jobs
 - crawl de sites de jeux pour créer des fiches dans la base
 - crawl de sites de vente pour connaitre les prix (http://www.jeuxdesocietepascher.net/)
